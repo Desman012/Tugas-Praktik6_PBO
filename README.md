@@ -22,7 +22,7 @@ Pada tugas pertemuan ke-6 ini mengimplementasikan  konsep looping dengan penggun
    ```
 
 ## Jawab:
-Semua jawaban bisa diakses melalui `src`
+Semua jawaban bisa diakses melalui folder `src`
 1. Untuk soal nomor 1 dapat diakses pada folder/package `nomor1`:
    - Untuk jawaban menghitung deret bilangan proma dan buka dari 0 - 20, bisa diakses pada file `BilanganPrima.java`
    - Untukk jawaban menghitung deret bilangan ganjil dan genap dari 0 - 20, bisa diakses pada file `BilanganGanjilGenap.java`
