@@ -8,7 +8,7 @@ Pada tugas pertemuan ke-6 ini mengimplementasikan  konsep looping dengan penggun
    d. Lagu “Anak Ayam Turun N”
    
 2. Buatlah suatu program yang menghasilkan suatu tabel perkalian n x n ( dimana nilai n lebih kecil atau sama dengan 10). Sebagai contoh, jika n bernilai 4 (empat), maka akan ditampilkan tabel perkalian berikut :
-   
+   ```
    |     |  1  |  2  |  3   |  4   |
    ---------------------------------
    |  1  |  1  |  2  |  3   |  4   |
@@ -19,6 +19,7 @@ Pada tugas pertemuan ke-6 ini mengimplementasikan  konsep looping dengan penggun
    ---------------------------------
    |  4  |  4  |  8  |  12  |  16  |
    ---------------------------------
+   ```
 
 ## Jawab:
 Semua jawaban bisa diakses melalui `src`
