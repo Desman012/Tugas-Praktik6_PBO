@@ -24,9 +24,9 @@ Pada tugas pertemuan ke-6 ini mengimplementasikan  konsep looping dengan penggun
 ## Jawab:
 Semua jawaban bisa diakses melalui `src`
 1. Untuk soal nomor 1 dapat diakses pada folder/package `nomor1`:
-   a. Untuk jawaban menghitung deret bilangan proma dan buka dari 0 - 20, bisa diakses pada file `BilanganPrima.java`
-   b. Untukk jawaban menghitung deret bilangan ganjil dan genap dari 0 - 20, bisa diakses pada file `BilanganGanjilGenap.java`
-   c. Untuk jawaban huruf Z -A, dapat diakses pada file `HurufZ_A.java`
-   d. Untuk jawaban Lagu "Anak Ayam Turun N", dapat diakses pada file `AnakAyam.java`
+   A. Untuk jawaban menghitung deret bilangan proma dan buka dari 0 - 20, bisa diakses pada file `BilanganPrima.java`
+   B. Untukk jawaban menghitung deret bilangan ganjil dan genap dari 0 - 20, bisa diakses pada file `BilanganGanjilGenap.java`
+   C. Untuk jawaban huruf Z -A, dapat diakses pada file `HurufZ_A.java`
+   D. Untuk jawaban Lagu "Anak Ayam Turun N", dapat diakses pada file `AnakAyam.java`
    
-2. Untuk soal nomor 2 dapat diakses pada folder/package `nomor2` dengan nama file `Matriks.java`
+3. Untuk soal nomor 2 dapat diakses pada folder/package `nomor2` dengan nama file `Matriks.java`
